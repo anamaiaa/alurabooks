@@ -7,9 +7,9 @@
 
 
 :root {
-    --cor-de-fundo: #fd0000;
-    --preto: #ffffff;
-    --branco: #000000;
+    --cor-de-fundo: #f0e7e7;
+    --branco: #f5f3f3;
+    --laranja: #f38e1b;
     --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --azul: #002F52;
