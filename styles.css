@@ -8,13 +8,13 @@
 
 :root {
     --cor-de-fundo: #fd0000;
-    --branco: #0f0f0f;
-    --laranja: #ffffff;
+    --preto: #0f0f0f;
+    --branco: #ffffff;
     --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --azul: #002F52;
     --fonte-secundario: "Josefin Sans";
-    --preto: #000000;
+    --branco: #fffefe;
     --cinza: #474646;
     --cinza-claro: #858585;
 }
